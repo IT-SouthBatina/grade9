@@ -52,7 +52,7 @@
           <option name="wraplistitems" value="false" />
           <option name="tooltips" value="true" />
           <option name="autocollapse" value="true" />
-          <option name="autonumber" value="false" />
+          <option name="autonumber" value="true" />
           <option name="enableresultsicons" value="true" />
         </options>
       </optiongroup>
@@ -1264,24 +1264,24 @@
             <slidelink slideid="_player.6InRz8HO3Vh.5la5L0r9gL7" displaytext="الشاشة الرئيسية" expand="false" type="slide" />
             <slidelink slideid="_player.67w0ZEjBoic" displaytext="1- انشاء قاعدة بيانات :" expand="false" type="slide">
               <links>
-                <slidelink slideid="_player.67w0ZEjBoic.6iuAyUq6OLU" displaytext="عرض مكان الحفظ" expand="false" type="slide" />
-                <slidelink slideid="_player.67w0ZEjBoic.687Oh4NivNU" displaytext="تحديد سطح المكتب" expand="false" type="slide" />
-                <slidelink slideid="_player.67w0ZEjBoic.5jtf4dv94bm" displaytext="حذف الاسم السابق" expand="false" type="slide" />
-                <slidelink slideid="_player.67w0ZEjBoic.6Iznv8fI6is" displaytext="كتابة اسم القاعدة" expand="false" type="slide" />
-                <slidelink slideid="_player.67w0ZEjBoic.6FTXZPERlth" displaytext="الضغط على موافق" expand="false" type="slide" />
-                <slidelink slideid="_player.67w0ZEjBoic.6A6DZp15BV7" displaytext="انشاء" expand="false" type="slide" />
+                <slidelink slideid="_player.67w0ZEjBoic.6iuAyUq6OLU" displaytext="عرض مكان الحفظ-1" expand="false" type="slide" />
+                <slidelink slideid="_player.67w0ZEjBoic.687Oh4NivNU" displaytext="تحديد سطح المكتب-2" expand="false" type="slide" />
+                <slidelink slideid="_player.67w0ZEjBoic.5jtf4dv94bm" displaytext="3- حذف الاسم السابق" expand="false" type="slide" />
+                <slidelink slideid="_player.67w0ZEjBoic.6Iznv8fI6is" displaytext="4- كتابة اسم القاعدة" expand="false" type="slide" />
+                <slidelink slideid="_player.67w0ZEjBoic.6FTXZPERlth" displaytext="5-الضغط على موافق" expand="false" type="slide" />
+                <slidelink slideid="_player.67w0ZEjBoic.6A6DZp15BV7" displaytext="6- انشاء" expand="false" type="slide" />
               </links>
             </slidelink>
             <slidelink slideid="_player.6KlLYVmXdpb" displaytext="2- استيراد جدول من ملف اكسل :" expand="false" type="slide">
               <links>
-                <slidelink slideid="_player.6KlLYVmXdpb.5j79rUtKbLM" displaytext="تبويب بيانات خارجية" expand="false" type="slide" />
-                <slidelink slideid="_player.6KlLYVmXdpb.5mJAy0soxV4" displaytext="excel" expand="false" type="slide" />
-                <slidelink slideid="_player.6KlLYVmXdpb.5kGeC1ZeaY4" displaytext="موقع الملف" expand="false" type="slide" />
-                <slidelink slideid="_player.6KlLYVmXdpb.694q2XNM58c" displaytext="تحديد المكان" expand="false" type="slide" />
-                <slidelink slideid="_player.6KlLYVmXdpb.5elpklCT4yS" displaytext="تحديد المكان 2" expand="false" type="slide" />
-                <slidelink slideid="_player.6KlLYVmXdpb.6jXOTNYlQ2C" displaytext="اختر الملف" expand="false" type="slide" />
-                <slidelink slideid="_player.6KlLYVmXdpb.6YLtX6c4eyt" displaytext="فتح" expand="false" type="slide" />
-                <slidelink slideid="_player.6KlLYVmXdpb.6eKKNowxB1V" displaytext="موافق" expand="false" type="slide" />
+                <slidelink slideid="_player.6KlLYVmXdpb.5j79rUtKbLM" displaytext=" تبويب بيانات خارجية -1" expand="false" type="slide" />
+                <slidelink slideid="_player.6KlLYVmXdpb.5mJAy0soxV4" displaytext="excel-2 " expand="false" type="slide" />
+                <slidelink slideid="_player.6KlLYVmXdpb.5kGeC1ZeaY4" displaytext="3- موقع الملف" expand="false" type="slide" />
+                <slidelink slideid="_player.6KlLYVmXdpb.694q2XNM58c" displaytext="تحديد المكان -4" expand="false" type="slide" />
+                <slidelink slideid="_player.6KlLYVmXdpb.5elpklCT4yS" displaytext=" تحديد المكان 2 -5" expand="false" type="slide" />
+                <slidelink slideid="_player.6KlLYVmXdpb.6jXOTNYlQ2C" displaytext="اختر الملف-6" expand="false" type="slide" />
+                <slidelink slideid="_player.6KlLYVmXdpb.6YLtX6c4eyt" displaytext="فتح-7" expand="false" type="slide" />
+                <slidelink slideid="_player.6KlLYVmXdpb.6eKKNowxB1V" displaytext="موافق-8" expand="false" type="slide" />
                 <slidelink slideid="_player.6KlLYVmXdpb.6Be9E7uXyaN" displaytext="التالي\" expand="false" type="slide" />
                 <slidelink slideid="_player.6KlLYVmXdpb.6gRUHjh9pJy" displaytext="التالي\" expand="false" type="slide" />
                 <slidelink slideid="_player.6KlLYVmXdpb.5d3LdTKlv1Y" displaytext="تغيير نوع البيانات" expand="false" type="slide" />
@@ -1405,9 +1405,9 @@
             </slidelink>
           </links>
         </slidelink>
-        <slidelink slideid="_player.6LYf5UNwdxH" displaytext="الدرس الثاني:" expand="false" type="slide">
+        <slidelink slideid="_player.6LYf5UNwdxH" displaytext="الدرس الثاني : الاستعلامات المتقدمة" expand="false" type="slide">
           <links>
-            <slidelink slideid="_player.6LYf5UNwdxH.5up0o8g449n" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6LYf5UNwdxH.5up0o8g449n" displaytext="الاستعلامات المتقدمة" expand="false" type="slide" />
             <slidelink slideid="_player.6KKZ6OAL7f9" displaytext="اجراء عمليات حسابية داخل استعلام" expand="false" type="slide">
               <links>
                 <slidelink slideid="_player.6KKZ6OAL7f9.5z2sEUlzc5S" displaytext="فتح القاعدة " expand="false" type="slide" />
